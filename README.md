@@ -27,4 +27,4 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 Special thanks to OpenWeather API for providing accurate and reliable weather data.
 
 **Demo**
-You can check out the live demo of the Weather App .
+You can check out the live demo of the Weather App at  https://mit-wheather-app.netlify.app/
